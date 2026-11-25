@@ -1,0 +1,60 @@
+{
+  "_instrucoes": "Fonte unica de verdade para a copy. Preencha so com o que o dono disse ou com o que esta no site dele. Campos que comecam com _ sao ignorados pelos scripts. O check_copy.py so roda com aprovado_pelo_dono = true, e quem aprova e o dono, depois de ler tudo.",
+  "aprovado_pelo_dono": false,
+  "aprovado_em": "",
+  "idioma": "pt-BR",
+  "negocio": {
+    "nome": "",
+    "o_que_vende": "",
+    "para_quem": "",
+    "regiao": "",
+    "site": "",
+    "instagram": "",
+    "checkout": ""
+  },
+  "cliente_ideal": "",
+  "resultado_desejado": "",
+  "oferta_atual": {
+    "nome": "",
+    "preco_texto": "",
+    "unidade": "",
+    "inclui": []
+  },
+  "oferta_nova": {
+    "nome": "",
+    "preco_texto": "",
+    "unidade": "",
+    "inclui": [],
+    "prazos": [],
+    "bonus": []
+  },
+  "provas": [
+    {
+      "_exemplo": "texto: '184 avaliacoes no Google com nota 4,9', origem: 'Perfil da Empresa no Google, visto em 2026-01-10'",
+      "texto": "",
+      "origem": ""
+    }
+  ],
+  "garantia": {
+    "_opcoes_de_tipo": "nenhuma | incondicional | condicional | por_resultado | de_servico (retorno, ajuste, refazer; comum em saude)",
+    "aprovada": false,
+    "tipo": "nenhuma",
+    "texto": "",
+    "condicoes": "",
+    "como_acionar": ""
+  },
+  "capacidade": {
+    "limite_real": "",
+    "motivo": ""
+  },
+  "urgencia": {
+    "_regra": "real = true so com limite de vagas ou data de verdade. Caso contrario, false e a copy sai sem urgencia.",
+    "real": false,
+    "texto": "",
+    "motivo": ""
+  },
+  "direitos_legais": [],
+  "_direitos_legais": "Direitos que a lei ja da e que o dono quer lembrar na pagina, escritos como direito do comprador. Ex.: Voce tem 7 dias para desistir da compra, como a lei preve para compras pela internet. Deixe vazio se nao se aplica.",
+  "superlativos_comprovados": [],
+  "outros_fatos": []
+}
