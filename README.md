@@ -22,7 +22,7 @@ Abra o Claude Code e cole:
 
 ```text
 Instala a skill desse repositório na minha pasta de skills do usuário
-(.claude/skills): https://github.com/Synaptica24/offer
+(.claude/skills): https://github.com/gabrieltomazia/offer
 A pasta skills/offer tem que ficar direto em .claude/skills/offer.
 No fim, me mostra o que tem dentro de .claude/skills/offer.
 ```
@@ -30,7 +30,7 @@ No fim, me mostra o que tem dentro de .claude/skills/offer.
 Tem Node? Também dá com um comando:
 
 ```bash
-npx skills add Synaptica24/offer -g -a claude-code
+npx skills add gabrieltomazia/offer -g -a claude-code
 ```
 
 Ou na mão: baixe o repositório (botão **Code → Download ZIP**) e copie a
